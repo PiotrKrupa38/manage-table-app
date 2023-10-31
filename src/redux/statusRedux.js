@@ -1,4 +1,4 @@
-import { API_URL } from "../config";
+import { API_URL } from "./config";
 
 //actions
 const createActionName = (actionName) => `app/status.${actionName}`;
